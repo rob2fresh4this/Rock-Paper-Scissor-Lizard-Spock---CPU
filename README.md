@@ -48,8 +48,6 @@ Be creative and have fun designing your unique version of Rock, Paper, Scissors,
 #### Revision History  
 - [1/14/25] done  
 
-# Review by: 
-
-
+# Review by: Alan Batres
 ### Overall Feedback:
-- examples
+The Generator for the random CPU outcome works perfetly and I like that you utilized an array Great Job.
