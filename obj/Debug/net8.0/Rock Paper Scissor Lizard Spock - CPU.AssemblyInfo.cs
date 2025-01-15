@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rock Paper Scissor Lizard Spock - CPU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb3b8f407fc192afc1d30b2485e13f8111bd2289")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rock Paper Scissor Lizard Spock - CPU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rock Paper Scissor Lizard Spock - CPU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
