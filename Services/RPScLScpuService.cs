@@ -10,7 +10,7 @@ namespace Rock_Paper_Scissor_Lizard_Spock___CPU.Services
         }
 
         public string GetCpuResponse(){
-            string[] cpuOptions = {"Rock", "Paper", "Scissors", "Lizard", "Spock"};
+            string[] cpuOptions = {"rock", "paper", "scissors", "lizard", "spock"};
             Random random = new Random();
             int index = random.Next(cpuOptions.Length);
             cpuResposne = cpuOptions[index];
